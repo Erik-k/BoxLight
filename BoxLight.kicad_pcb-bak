@@ -417,7 +417,7 @@
     )
   )
 
-  (gr_circle (center 145.796 94.45802) (end 145.923 94.71202) (layer F.SilkS) (width 0.2) (tstamp 5A970E29))
+  (gr_circle (center 145.796 94.361) (end 146.05 94.615) (layer F.SilkS) (width 0.2))
   (gr_circle (center 145.669 89.154) (end 145.796 89.408) (layer F.SilkS) (width 0.2))
   (gr_line (start 159.512 86.36) (end 158.496 86.36) (layer F.SilkS) (width 0.2))
   (gr_line (start 159.004 85.852) (end 159.004 86.868) (layer F.SilkS) (width 0.2))

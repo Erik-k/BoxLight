@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name NoSilkscreenFootprints)(type KiCad)(uri "$(KIPRJMOD)/NoSilkscreenFootprints.pretty")(options "")(descr ""))
+)
